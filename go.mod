@@ -1,3 +1,3 @@
-module github.com/coder-boi-6/octoverse.git
+module github.com/username/octoverse
 
 go 1.26.8
